@@ -6,6 +6,11 @@ print(type(b))
 
 # swapp
 
+"""
+dsksk
+msks
+"""
+
 temp = a
 a = b
 b = temp
