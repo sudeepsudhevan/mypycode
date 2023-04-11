@@ -1,5 +1,5 @@
-
-
+print(__name__)
+print('welcome')
 def checkNegOrPos(num):
 
     if num < 0:
